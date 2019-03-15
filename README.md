@@ -13,6 +13,16 @@
 - be pointed to resources to understand the event loop better
 - reaccess my personal understanding of everything ;)
 
+## Project
+
+- Install node and run npm install
+- run node src/index
+- This project calls a free beer API, gets a random beer, gets a double digit number from a file in the codebase, sums the digits and writes that to a file as the price of the beer.
+- Project goal is to show how to handle multiple async functions with await, handle errors with try catch, convert callbacks to promises, and await async functions elegantly.
+- project also shows how to use Promise.all to handle multiple promises concurrently.
+- This readme file will touch the topics I covered in this talk at AmsterdamJS.
+- this will also show you the references and tools to learn and grow.
+
 ## About NodeJS
 
 - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
